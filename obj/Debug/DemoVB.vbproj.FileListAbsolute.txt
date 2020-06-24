@@ -1,0 +1,19 @@
+C:\Users\Am\source\repos\DemoVB\bin\Debug\DemoVB.exe.config
+C:\Users\Am\source\repos\DemoVB\bin\Debug\DemoVB.exe
+C:\Users\Am\source\repos\DemoVB\bin\Debug\DemoVB.pdb
+C:\Users\Am\source\repos\DemoVB\bin\Debug\DemoVB.xml
+C:\Users\Am\source\repos\DemoVB\obj\Debug\DemoVB.Form1.resources
+C:\Users\Am\source\repos\DemoVB\obj\Debug\DemoVB.Resources.resources
+C:\Users\Am\source\repos\DemoVB\obj\Debug\DemoVB.vbproj.GenerateResource.cache
+C:\Users\Am\source\repos\DemoVB\obj\Debug\DemoVB.vbproj.CoreCompileInputs.cache
+C:\Users\Am\source\repos\DemoVB\obj\Debug\DemoVB.exe
+C:\Users\Am\source\repos\DemoVB\obj\Debug\DemoVB.xml
+C:\Users\Am\source\repos\DemoVB\obj\Debug\DemoVB.pdb
+C:\Users\Am\source\repos\DemoVB\bin\Debug\CRUD customers.mdf
+C:\Users\Am\source\repos\DemoVB\bin\Debug\CRUD customers_log.ldf
+C:\Users\Am\source\repos\DemoVB\bin\Debug\EntityFramework.dll
+C:\Users\Am\source\repos\DemoVB\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Am\source\repos\DemoVB\bin\Debug\EntityFramework.xml
+C:\Users\Am\source\repos\DemoVB\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Am\source\repos\DemoVB\obj\Debug\DemoVB.vbproj.CopyComplete
+C:\Users\Am\source\repos\DemoVB\obj\Debug\DemoVB.vbprojAssemblyReference.cache
